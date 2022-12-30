@@ -1,5 +1,5 @@
 # BotBot
-ALL IN ONE HACKING TOOL.. RAT,Control Center, Web Scanner, Vuln Scanner, SEO BOT, DDOS, HACKING ADMIN, Dashboard, CCGEN+CHECKER,
+ALL IN ONE HACKING TOOL.. RAT,Control Center, Web Scanner, Vuln Scanner, SEO BOT, DDOS, HACKING ADMIN, Dashboard, CCGEN+CHECKER + more
 
 ![project-image](https://user-images.githubusercontent.com/67332133/210049069-079a6066-e593-4789-8518-92c6534ac591.png)
 
