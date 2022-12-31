@@ -15,7 +15,7 @@ ALL IN ONE HACKING TOOL.. RAT,Control Center, Web Scanner, Vuln Scanner, SEO BOT
  GPT made Functions and Functionality ready plus more
 
 # Donate 5 keep a hacker alive 😂
-Donate $5 along with your email in comments via cashapp for a working sample and first dips, 6mths before release with lifetime updates.
+Donate $5 along with your email in comments via cashapp to @ $cellphonemega for a working sample and first dips, 6mths before release with lifetime updates.
 * Simple Install just put in localhost folder run server and visit localhost/botbot.
 Free realease wont be updated and will be incomplete with less features more of learning experience a BYO template. 
 full version with all my hacks and malicious activity will require a small $5 donation as the work was very hard for me especially with css and javascript 
